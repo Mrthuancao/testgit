@@ -1,5 +1,7 @@
 import random
 
+hello
+
 def guess(a, b):
     secret_number = random.randint(a, b)
     
